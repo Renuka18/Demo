@@ -1,0 +1,10 @@
+<html>
+<head>
+<title> javascript </title>
+</head>
+<body>
+<h1> JAVA SCRIPT PRACTISE </h1>
+<h2 align="center" id="demo"> JAVASCRIPT IS TOUGH???? </h2>
+<button type="button" onclick="document.getElementById("demo").style.fontsize="20px"> CLICK HERE FOR ANSWER </button>
+</body>
+</html>
